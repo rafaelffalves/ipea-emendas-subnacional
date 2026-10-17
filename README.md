@@ -21,11 +21,7 @@ Este repositório implementa um pipeline reprodutível de ponta a ponta:
 
 O modelo empírico foi especificado como:
 
-$$
-
-\text{ArrecadacaoPropria}_{it} = \beta_0 + \beta_1 \text{EmendasRecebidas}_{it} + \alpha_i + \delta_t + \varepsilon_{it}
-
-$$
+$$\text{ArrecadacaoPropria}_{it} = \beta_0 + \beta_1 \text{EmendasRecebidas}_{it} + \alpha_i + \delta_t + \varepsilon_{it}$$
 
 Onde:
 
